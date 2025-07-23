@@ -14,16 +14,16 @@ This is a simple Java-based distributed chat application where multiple clients 
 📁 Package Structure
 --------------------
 com.prajwal.chatapp
-│                          
-├── client                                  
-│   └── Client.java
-│
-├── gateway
-│   └── Gateway.java
-│
-├── service
-│   └── SessionService.java
-
+│                                                                                                                                                                         
+├── client                                                                                                                                                                                      
+│   └── Client.java                                                                                                                                                    
+│                                                                                                                                                    
+├── gateway                                                                                                                                                    
+│   └── Gateway.java                                                                                                                                                    
+│                                                                                                                                                    
+├── service                                                                                                                                                    
+│   └── SessionService.java                                                                                                                                                    
+                                                                                                                                                    
 🧪 How to Run
 -------------
 1. **Compile All Files**

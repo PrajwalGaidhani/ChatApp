@@ -14,8 +14,8 @@ This is a simple Java-based distributed chat application where multiple clients 
 📁 Package Structure
 --------------------
 com.prajwal.chatapp
-│
-├── client
+│                          
+├── client                                  
 │   └── Client.java
 │
 ├── gateway

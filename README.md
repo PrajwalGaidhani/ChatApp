@@ -31,28 +31,22 @@ com.prajwal.chatapp
    javac com/prajwal/chatapp/**/*.java
 Start Gateways (in separate terminals)
 
-bash
-Copy
-Edit
+
 java com.prajwal.chatapp.gateway.Gateway 9000
 java com.prajwal.chatapp.gateway.Gateway 9001
+
 Start Clients
 
-bash
-Copy
-Edit
+
 java com.prajwal.chatapp.client.Client 127.0.0.1 9000
 java com.prajwal.chatapp.client.Client 127.0.0.1 9001
+
+
 Send Messages
 After login, send messages using format:
 
-ruby
-Copy
-Edit
 to:<recipient_userId>:<message>
+
 Example:
 
-css
-Copy
-Edit
 to:user2:Hi! How are you?

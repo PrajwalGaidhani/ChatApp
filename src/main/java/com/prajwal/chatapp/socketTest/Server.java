@@ -1,4 +1,4 @@
-package com.prajwal.chatapp.socket;
+package com.prajwal.chatapp.socketTest;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
